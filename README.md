@@ -6,11 +6,9 @@
   This application provides real-time weather updates for any location using the <a href="https://openweathermap.org/api">OpenWeatherMap API</a>. It displays current temperature, weather conditions, humidity, wind speed, and more in an easy-to-use interface.
 </p>
 <p align="center">
-  Demo of the Weather Application:
-  <a href="https://weathernow-0eek.onrender.com">
-    <img alt="Live Link" />
-  </a>
+  This site is live at : https://weathernow-0eek.onrender.com
 </p>
+
 
 
 
